@@ -21,12 +21,10 @@ export default function Home() {
 
                 <meta property="og:title" content={t.common.customTitle} />
                 <meta property="og:description" content={t.common.customDescription} />
-                <meta property="og:image" content="https://stresseremachado.vercel.app/brand_imgs/Icone_512.png" />
-                <meta property="og:url" content="https://stresseremachado.vercel.app/" />
+                <meta property="og:image" content="https://tabordalima.vercel.app/brand_imgs/Logo_TL_512.png" />
+                <meta property="og:url" content="https://tabordalima.vercel.app/" />
 
                 <meta name="author" content="https://pragmata.ninja/"></meta>
-
-                <link rel="icon" href="/favicon.ico" />
             </Head>
             <m.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }} transition={{ duration: 0.5 }} key="home">
                 <main className="Page_Wrapper">

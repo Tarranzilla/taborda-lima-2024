@@ -4,7 +4,7 @@ const privacyList_EN: ParagraphsWithTitle[] = [
     {
         title: "Privacy Policy",
         paragraphs: [
-            "This Privacy Policy describes how the Taborda Lima & Associates law firm (we, our, or us) collects, uses, and shares personal information when you use our website www.stresseremachado.adv.br.",
+            "This Privacy Policy describes how the Taborda Lima & Associates law firm (we, our, or us) collects, uses, and shares personal information when you use our website www.tabordalima.com",
         ],
     },
     {

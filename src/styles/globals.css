@@ -108,6 +108,7 @@ body.body-no-scroll {
 .Intro_Image {
     height: 340px;
     width: 340px;
+    object-fit: contain;
     animation: scaleBounce 2s infinite;
 }
 
@@ -253,21 +254,26 @@ body.body-no-scroll {
 }
 
 .Logo_Type {
-    font-family: "Willpower Slab Regular", sans-serif;
+    font-family: "trajan-pro-3", serif;
+    font-weight: 600;
     font-size: 1.2rem;
     color: var(--text-color);
-    letter-spacing: 0.25rem;
+    letter-spacing: 0.15rem;
 }
 
 .Logo_Type_Special_Container {
+    font-family: "trajan-pro-3", serif;
+    font-weight: 600;
     display: flex;
     align-items: center;
     gap: var(--small-gap);
+    margin-block: -0.25rem;
 }
 
 .Logo_Type_Special {
-    font-family: "Willpower Slab Regular", sans-serif;
-    font-size: 0.8rem;
+    font-family: "trajan-pro-3", serif;
+    font-weight: 300;
+    font-size: 0.5rem;
     color: var(--text-color);
     letter-spacing: 0.25rem;
     position: relative;
@@ -279,15 +285,17 @@ body.body-no-scroll {
 
 .Logo_Type_Special_Trace {
     background-color: var(--text-color);
-    height: 2px;
+    height: 1px;
     width: 100%;
 }
 
 .Logo_Type_Subtitle {
-    font-family: "Willpower Slab Regular", sans-serif;
-    font-size: 0.8rem;
+    font-family: "trajan-pro-3", serif;
+    font-weight: 600;
+    font-size: 0.75rem;
     color: var(--text-color);
-    letter-spacing: 0.25rem;
+    letter-spacing: 0.05rem;
+    text-transform: uppercase;
 }
 
 .Navbar_Links {
