@@ -16,7 +16,7 @@ const termsList_EN: ParagraphsWithTitle[] = [
     {
         title: "Intellectual Property",
         paragraphs: [
-            "The content of our website, including text, graphics, logos, button icons, images, audio clips, digital downloads, data compilations, and software, is the exclusive property of the Stresser e Machado law firm and is protected by copyright laws and other applicable intellectual property laws.",
+            "The content of our website, including text, graphics, logos, button icons, images, audio clips, digital downloads, data compilations, and software, is the exclusive property of the Taborda Lima & Associates law firm and is protected by copyright laws and other applicable intellectual property laws.",
         ],
     },
     {
