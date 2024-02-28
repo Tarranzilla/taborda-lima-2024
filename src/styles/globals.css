@@ -143,7 +143,7 @@ body.body-no-scroll {
 }
 
 .Cookie_Title {
-    font-family: "Willpower Slab Regular", sans-serif;
+    font-family: "trajan-pro-3", serif;
     letter-spacing: 0.25rem;
 }
 
@@ -178,8 +178,9 @@ body.body-no-scroll {
 .terms-of-use > h3,
 .Privacy_Policy > h3 {
     margin-top: var(--medium-gap);
-    font-family: "Willpower Slab Regular", sans-serif;
-    letter-spacing: 0.25rem;
+    font-family: "trajan-pro-3", serif;
+    letter-spacing: 0.1rem;
+    font-size: 1.4rem;
 }
 
 .Error {
@@ -200,8 +201,8 @@ body.body-no-scroll {
 .Error_Title,
 .Error_SubTitle {
     text-align: center;
-    font-family: "Willpower Slab Regular", sans-serif;
-    letter-spacing: 0.25rem;
+    font-family: "trajan-pro-3", serif;
+    letter-spacing: 0.1rem;
 }
 
 .Error_SubTitle {
@@ -310,8 +311,8 @@ body.body-no-scroll {
     justify-content: center;
     color: var(--text-color);
     text-decoration: none;
-    font-family: "Willpower Slab Regular", sans-serif;
-    font-size: 1.2rem;
+    font-family: "trajan-pro-3", serif;
+    font-size: 0.9rem;
     letter-spacing: 0.125rem;
     transition: font-size 0.3s ease, color 0.3s ease;
 }
@@ -374,8 +375,8 @@ body.body-no-scroll {
 }
 
 .Menu_Nav > a {
-    font-family: "Willpower Slab Regular", sans-serif;
-    font-size: 1.8rem;
+    font-family: "trajan-pro-3", serif;
+    font-size: 1.4rem;
     letter-spacing: 0.25rem;
     color: var(--text-color);
     text-decoration: none;
@@ -422,10 +423,10 @@ body.body-no-scroll {
 }
 
 .Section_Title {
-    font-size: 1.8rem;
+    font-size: 1.6rem;
     font-weight: bold;
     color: var(--text-color);
-    font-family: "Willpower Slab Regular", sans-serif;
+    font-family: "trajan-pro-3", serif;
     font-size: 2rem;
     letter-spacing: 0.25rem;
     border-bottom: 1px solid var(--text-color);
@@ -462,9 +463,10 @@ body.body-no-scroll {
 
 .Banner_Title {
     z-index: 2;
-    font-family: "Willpower Slab Regular", sans-serif;
+    font-family: "trajan-pro-3", serif;
+    font-weight: 600;
+    line-height: clamp(2.2rem, 6vw, 3.4rem);
     font-size: clamp(1.8rem, 4vw, 2.6rem);
-    font-weight: 800;
     letter-spacing: 0.25rem;
     color: white;
     text-align: center;
@@ -475,9 +477,10 @@ body.body-no-scroll {
 
 .Banner_SubTitle {
     z-index: 2;
-    font-family: "Willpower Slab Regular", sans-serif;
-    font-size: clamp(1.125rem, 2vw, 1.6rem);
-    letter-spacing: 0.2rem;
+    font-family: "trajan-pro-3", serif;
+    font-weight: 500;
+    font-size: clamp(1.125rem, 2vw, 1.4rem);
+    letter-spacing: 0.1rem;
     color: white;
     text-align: center;
     text-shadow: var(--bg-color) 0 0 5px;
@@ -743,11 +746,12 @@ body.body-no-scroll {
 }
 
 .Card_Title {
-    font-family: "Willpower Slab Regular", sans-serif;
-    letter-spacing: 0.25rem;
+    font-family: "trajan-pro-3", serif;
+    letter-spacing: 0.1rem;
     padding-bottom: var(--small-gap);
     margin-bottom: var(--small-gap);
     border-bottom: 1px solid var(--bg-color);
+    font-size: 1.1rem;
 }
 
 .Card_Link {
@@ -757,8 +761,9 @@ body.body-no-scroll {
 
 .Expertise_Page_Title {
     text-align: center;
-    font-family: "Willpower Slab Regular", sans-serif;
-    letter-spacing: 0.25rem;
+    font-family: "trajan-pro-3", serif;
+    letter-spacing: 0.1rem;
+    font-size: 1.6rem;
     border: 2px solid var(--text-color);
     padding: var(--medium-gap) var(--large-gap);
 }
@@ -862,7 +867,7 @@ body.body-no-scroll {
 
 .Adress_Title {
     margin-top: 0.5rem;
-    font-family: "Willpower Slab Regular", sans-serif;
+    font-family: "trajan-pro-3", serif;
     letter-spacing: 0.25rem;
     font-size: 2rem;
     padding-bottom: var(--medium-gap);
